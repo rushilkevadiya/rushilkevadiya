@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development, DevOps, and AI.
 - 🌱 I’m currently learning Spring Boot, System Design, and Cloud Technologies (AWS).
 - 💞️ I’m looking to collaborate on open-source backend projects, APIs, and smart automation tools.
-- 📫 How to reach me [📧 Email](mailto:rushilkevadiya02@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/rushilkevadiya) .
+- 📫 How to reach me [📧 Email](mailto:rushilkevadiya02@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/rushil-kevadiya-2597672bb/) .
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ### 🚀 Projects I'm Proud Of
